@@ -10,6 +10,7 @@
 
 Interested in connecting with anyone who has an AI-research background and is interested in the LS side of things - or really any kind of shared enthusiasm!
 
+https://zigaziga.co.uk/ 
 <!--
 **zigaziga-212/zigaziga-212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
