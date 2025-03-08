@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am working to improve the lives of scientists and health outcomes for all!
+
+To do this, I am learning to implement AI-enabled solutions to pain points in the research workflow.
+
+🍳 Cooking up two things right now... 
+
+I have a Life Sciences background (PhD, VC and consulting) and I am learning how to implement AI - both using newly-trained models and implementing existing gen-AI (depending on the application)
+
+Interested connecting with anyone who has an AI-research background and is interested in the LS side of things - or really any kind of shared enthusiasm!
+
 <!--
 **zigaziga-212/zigaziga-212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
